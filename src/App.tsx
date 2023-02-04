@@ -9,7 +9,7 @@ function App() {
         Welcome!
       </p>
       <p className="text-gray-500 text-lg">
-        React and Tailwind CSS in action
+        React and Tailwind CSS and github actions
       </p>
     </div>
   );
